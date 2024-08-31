@@ -1,0 +1,51 @@
+Welcome to Stock MACD Backtest of BTCUSD
+2014-01-01
+The sum of profits was $21,781,392.09 from $50,000.00 giving an ROI of 43562.78% 
+ for an APY of 4421.04% The length of time was 9 years, 10 months, 29 days for a total of 235 trades.
+Buy and Hold APY of 564.58%. Buy Price:732.0 Sell Price:42042.43
+
+2015-01-01
+The sum of profits was $9,900,599.70 from $50,000.00 giving an ROI of 19801.20% 
+ for an APY of 2238.44% The length of time was 8 years, 10 months, 21 days for a total of 212 trades.
+Buy and Hold APY of 1444.70%. Buy Price:321.0 Sell Price:42042.43
+
+2016-01-01
+The sum of profits was $3,098,829.20 from $50,000.00 giving an ROI of 6197.66% 
+ for an APY of 789.02% The length of time was 7 years, 10 months, 19 days for a total of 195 trades.
+Buy and Hold APY of 1207.55%. Buy Price:430.89 Sell Price:42042.43
+
+2017-01-01
+The sum of profits was $1,883,936.78 from $50,000.00 giving an ROI of 3767.87% 
+ for an APY of 549.83% The length of time was 6 years, 10 months, 13 days for a total of 167 trades.
+Buy and Hold APY of 607.68%. Buy Price:966.3 Sell Price:42042.43
+
+2018-01-01
+The sum of profits was $342,990.54 from $50,000.00 giving an ROI of 685.98% 
+ for an APY of 117.19% The length of time was 5 years, 10 months, 8 days for a total of 146 trades.
+Buy and Hold APY of 33.84%. Buy Price:13880.0 Sell Price:42042.43
+
+2019-01-01
+The sum of profits was $147,693.47 from $50,000.00 giving an ROI of 295.39% 
+ for an APY of 60.85% The length of time was 4 years, 10 months, 3 days for a total of 123 trades.
+Buy and Hold APY of 207.81%. Buy Price:3693.3 Sell Price:42042.43
+
+2020-01-01
+The sum of profits was $147,983.98 from $50,000.00 giving an ROI of 295.97% 
+ for an APY of 76.78% The length of time was 3 years, 10 months, 28 days for a total of 97 trades.
+Buy and Hold APY of 121.13%. Buy Price:7196.7764 Sell Price:42042.43
+
+2021-01-01
+The sum of profits was $14,211.07 from $50,000.00 giving an ROI of 28.42% 
+ for an APY of 9.96% The length of time was 2 years, 10 months, 22 days for a total of 79 trades.
+Buy and Hold APY of 14.44%. Buy Price:29350.4258 Sell Price:42042.43
+
+2022-01-01
+The sum of profits was $14,123.65 from $50,000.00 giving an ROI of 28.25% 
+ for an APY of 15.24% The length of time was 1 years, 10 months, 17 days for a total of 51 trades.
+Buy and Hold APY of -5.97%. Buy Price:47728.405 Sell Price:42042.43
+
+2023-01-01
+The sum of profits was $-725.23 from $50,000.00 giving an ROI of -1.45% 
+ for an APY of -1.70% The length of time was 0 years, 10 months, 12 days for a total of 22 trades.
+Buy and Hold APY of 153.63%. Buy Price:16610.4012 Sell Price:42042.43
+
